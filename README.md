@@ -7,7 +7,7 @@
 
 - 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
 
-- Possuo experiência em testes manuais e processo de desenvolvimento de software, trabalho com metodologia ágil(Scrum),também sou certificada pela BSTQB na certificação CTFL, para mais informações sobre minhas experiencias acessem o meu LinkedIn: [https://www.linkedin.com/in/noeleguimaraes/](https://www.linkedin.com/in/noeleguimaraes/)
+- Possuo experiência em testes manuais e processo de desenvolvimento de software, trabalho com metodologia ágil(Scrum), também sou certificada pela BSTQB na certificação CTFL, para mais informações sobre minhas experiencias acessem o meu LinkedIn: [https://www.linkedin.com/in/noeleguimaraes/](https://www.linkedin.com/in/noeleguimaraes/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
