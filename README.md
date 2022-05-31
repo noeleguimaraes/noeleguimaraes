@@ -3,8 +3,6 @@
 
 - 🌱 Estou aprendendo automação de testes **Cypress**
 
-- 💬 Me pergunte sobre **SQL,Cypress**
-
 - 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
 
 
