@@ -3,10 +3,7 @@
 
 - 🌱 Estou aprendendo automação de testes **Cypress**
 
-- 💬 Me pergunte sobre **SQL,Cypress**
-
 - 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
-
 
 ##Experiências
 
@@ -14,8 +11,6 @@
 -Processo de desenvolvimento
 -Metodologias ágeis - Scrum
 -Certificações: CTFL
-
-e processo de desenvolvimento de software, trabalho com metodologia ágil(Scrum), também sou certificada pela BSTQB na certificação CTFL, para mais informações sobre minhas experiências acessem o meu LinkedIn: [https://www.linkedin.com/in/noeleguimaraes/](https://www.linkedin.com/in/noeleguimaraes/)
 
 <h3 align="left">Me encontre atráves do LinkedIn:</h3>
 <p align="left">
