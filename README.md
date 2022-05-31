@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL,Cypress**
 
-- 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
+- 📫 Você me encontra através do e-mail **noelenunes@gmail.com**
 
 - Possuo experiência em testes manuais e processo de desenvolvimento de software, trabalho com metodologia ágil(Scrum), também sou certificada pela BSTQB na certificação CTFL, para mais informações sobre minhas experiências acessem o meu LinkedIn: [https://www.linkedin.com/in/noeleguimaraes/](https://www.linkedin.com/in/noeleguimaraes/)
 
