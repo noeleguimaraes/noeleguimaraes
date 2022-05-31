@@ -3,14 +3,17 @@
 
 - 🌱 Estou aprendendo automação de testes **Cypress**
 
+- 💬 Me pergunte sobre **SQL,Cypress**
+
 - 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
 
-##Experiências
 
--Testes de software com base em técnicas partição de equivalência
--Processo de desenvolvimento
--Metodologias ágeis - Scrum
--Certificações: CTFL
+Experiências
+
+-Testes de software com base em técnicas como: partição de equivalência, tabela de decisão, valor limite, testes de caixa preta, usabilidade e performance.
+-Processo de desenvolvimento de software.
+-Metodologias ágeis - Scrum.
+-Certificações: CTFL.
 
 <h3 align="left">Me encontre atráves do LinkedIn:</h3>
 <p align="left">
