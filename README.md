@@ -1,7 +1,7 @@
 <h1 align="center">Oi pessoal 👋, eu sou a Noele</h1>
 <h3 align="center">Sou apaixonada por tecnologia </h3>
 
-- 🌱 Estou me desafiando em automação de api e web com o Robot Framework**
+- 🌱 Estou me desafiando em automação de api e web com o Robot Framework
 
 - 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
 
