@@ -1,9 +1,8 @@
 ## Olá, eu sou a Noele Guimarães👋
 
-- 👩🏽‍💻 Atualmente trabalho com QA
-- 🌱 Estudando JavaScript, Python, RobotFramework e Postman
-- 🤝 Participo ativamente em comunidades
-- 😄 Pronouns: ela/dela
+## 👩‍💻 Analista de Garantia de Qualidade (QA)
+
+Desde 2020, atuo na área de testes de software. Sou bacharel em Sistemas de Informação e certificada CTFL Foundation Level. Tenho experiência com testes manuais e, atualmente, estou estudando e aplicando conhecimentos em automação de testes de API e WEB.
 
 
 ## 💻 Tecnologias
