@@ -1,26 +1,36 @@
-<h1 align="center">Oi pessoal 👋, eu sou a Noele</h1>
-<h3 align="center">Sou apaixonada por tecnologia </h3>
+## Olá, eu sou a Noele Guimarães👋
 
-- 🌱 Estou me desafiando em automação de api e web com o Robot Framework
+- 👩🏽‍💻 Atualmente trabalho com QA
+- 🌱 Estudando JavaScript, Python, RobotFramework e Postman
+- 🤝 Participo ativamente em comunidades
+- 😄 Pronouns: ela/dela
 
-- 📫 Voce me encontra através do e-mail **noelenunes@gmail.com**
 
+## 💻 Tecnologias
 
-### Experiências
+<div style="display: inline_block"><br>
+  
+   <img align="center" alt="Noele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Noele-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Noele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Noele-Postman" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+   <img align="center" alt="Noele-Cypress" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png">
+   <img align="center" alt="Noele-DevOps" height="30" width="40" src="https://www.svgrepo.com/show/448271/azure-devops.svg">
+   <img align="center" alt="Noele-Robot" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+   <img align="center" alt="Noele-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+   
+          
+          
+          
+</div>
+  
+  ##
+ 
+<div> 
+<a href="https://instagram.com/noeleguimaraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https.linkedin.com/in/noeleguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- Testes de software com base em técnicas como: partição de equivalência, tabela de decisão, valor limite, testes de caixa preta, usabilidade e performance.
-- Processo de desenvolvimento de software.
-- Metodologias ágeis - Scrum.
-- Certificações: CTFL.
-
-<h3 align="left">Me encontre atráves do LinkedIn:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/noeleguimaraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noeleguimaraes/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
+</div>
 
 
 
@@ -30,12 +40,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
