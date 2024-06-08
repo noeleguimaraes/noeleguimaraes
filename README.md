@@ -30,7 +30,13 @@ Desde 2020, atuo na área de testes de software. Sou bacharel em Sistemas de Inf
 
 </div>
 
+<hr>
 
+ <br>
+
+   ![Snake animation](https://github.com/noeleguimaraes/noeleguimaraes/blob/main/github-contribution-grid-snake.svg)
+   
+</div>
 
 
 <!--
